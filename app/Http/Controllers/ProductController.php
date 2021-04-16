@@ -102,4 +102,14 @@ class ProductController extends Controller
  
           return view('myorders',['orders'=>$orders]); 
     }
+    function addproduct(Request $req){
+        $products = new Product;
+        $products->name=$req->Productname;
+        $products->price=$req->price;
+        $products->category=$req->category;
+        $products->gallery=$req->gallery;
+        $products->description=$req->description;
+        $products->save();
+        return redirect("/");
+      }
 }
