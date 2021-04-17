@@ -1,3 +1,48 @@
+## E-Commerce Project
+This is a E- commerce project made by using Laravel and Mysql for database
+Modules in this project are:
++ Login 
++ Register
++ Search Products
++ Add Products to Cart
++ Add Products to E-commerce System by Admin Only
++ Placing Order
++ Seeing My Order's List
++ Getting Details of a Product
+# To run project on system
++ open cmd by going to path of folder where these files are present
++ write command: php artisan serve to start laravel
++ copy the ip address that you get after starting laravel and paste on url
+# Some screenshots of project
+![e1](https://user-images.githubusercontent.com/43674549/115109315-c1c6b980-9f92-11eb-9be6-eefb8f5bb775.PNG)
+![e2](https://user-images.githubusercontent.com/43674549/115109322-cc814e80-9f92-11eb-9c95-db3bdbca041d.PNG)
+![e3](https://user-images.githubusercontent.com/43674549/115109328-d6a34d00-9f92-11eb-8a22-70ea22006016.PNG)
+![e4](https://user-images.githubusercontent.com/43674549/115109329-d86d1080-9f92-11eb-826e-d6a1db22c07d.PNG)
+![e5](https://user-images.githubusercontent.com/43674549/115109336-e884f000-9f92-11eb-912a-fb4dda8f6b8c.PNG)
+![e6](https://user-images.githubusercontent.com/43674549/115109338-ec187700-9f92-11eb-9883-a9f355b93dde.PNG)
+![e7](https://user-images.githubusercontent.com/43674549/115109339-ede23a80-9f92-11eb-99ce-dbd0248de269.PNG)
+![e8](https://user-images.githubusercontent.com/43674549/115109340-efabfe00-9f92-11eb-982f-8a43bdc337a8.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
